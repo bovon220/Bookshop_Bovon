@@ -1,0 +1,11 @@
+D:\Bookshop_Bovon\Bookshop_Bovon\bin\Debug\Bookshop_Bovon.exe.config
+D:\Bookshop_Bovon\Bookshop_Bovon\bin\Debug\Bookshop_Bovon.exe
+D:\Bookshop_Bovon\Bookshop_Bovon\bin\Debug\Bookshop_Bovon.pdb
+D:\Bookshop_Bovon\Bookshop_Bovon\obj\Debug\Bookshop_Bovon.csproj.AssemblyReference.cache
+D:\Bookshop_Bovon\Bookshop_Bovon\obj\Debug\Bookshop_Bovon.csproj.SuggestedBindingRedirects.cache
+D:\Bookshop_Bovon\Bookshop_Bovon\obj\Debug\Bookshop_Bovon.frmLogin.resources
+D:\Bookshop_Bovon\Bookshop_Bovon\obj\Debug\Bookshop_Bovon.Properties.Resources.resources
+D:\Bookshop_Bovon\Bookshop_Bovon\obj\Debug\Bookshop_Bovon.csproj.GenerateResource.cache
+D:\Bookshop_Bovon\Bookshop_Bovon\obj\Debug\Bookshop_Bovon.csproj.CoreCompileInputs.cache
+D:\Bookshop_Bovon\Bookshop_Bovon\obj\Debug\Bookshop_Bovon.exe
+D:\Bookshop_Bovon\Bookshop_Bovon\obj\Debug\Bookshop_Bovon.pdb
